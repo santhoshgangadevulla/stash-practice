@@ -8,3 +8,6 @@ learning
 git stash
 hello 
 earnerds
+added some more lines
+for stashing in git
+hope you get it 
