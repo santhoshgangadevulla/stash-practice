@@ -1,0 +1,8 @@
+hello
+earnerds
+this 
+is 
+the practice 
+for 
+learning 
+git stash
