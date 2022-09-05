@@ -6,3 +6,5 @@ the practice
 for 
 learning 
 git stash
+hello 
+earnerds
